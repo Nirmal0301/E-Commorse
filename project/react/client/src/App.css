@@ -1,0 +1,229 @@
+.bckg
+{
+    background-color: sienna;
+    color:white;
+    text-align: center;
+}
+.puma1
+{
+    height:75px;
+    width:120px;
+    margin-right:auto;
+}
+.bckg1
+{
+    background-color: black;
+    height:75px;
+    padding:10px;
+}
+.ser
+{
+    height:25px;
+    width:25px;
+    margin-top: 3px;
+    margin-right:20px;
+}
+.hera
+{
+    height:70px;
+    width: 80px;
+}
+.cart
+{
+    height:30px;
+    width:30px;
+    margin-top: 6px;
+}
+.list
+{
+    height:30px;
+    width:30px;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+a
+{
+    color:white;
+    
+}
+.bgimg
+{
+    height:350px;
+}
+.bgimg2
+{
+    height:350px;
+}
+
+.men1
+{
+    height:300px;
+    width:300px;
+}
+.p1
+{
+  color:black;
+  font-weight: bold;
+  margin-left: 30px;
+}
+.men3
+{
+    height:300px;
+    width:300px;
+}
+.head
+{
+    background-color: black;
+    color:red;
+    font-weight:bolder;
+    text-align: center;
+}
+.card{
+    padding:20px;
+    background-color: white;
+    border-color: white;
+}
+
+.bg-container{
+
+    height: 30vh;
+    width:33vh;
+}
+.bgimg1{
+    height:180px;
+    width: 150px;
+}
+.head1
+{
+    text-align: center;
+}
+
+.input1
+{
+  width:70px;
+}
+.log
+{
+    height:800px;
+    width:1000px;
+}
+.bgcol1
+{
+    position: absolute;
+    background-color: black;
+}
+.bgcol2
+{
+    background-color: black;
+}
+.inp1
+{
+    position: relative;
+}
+body {
+    font-family: "Lato", sans-serif;
+}
+
+
+
+.main-head{
+    height: 150px;
+    background: #FFF;
+   
+}
+
+.sidenav {
+    height: 100%;
+    background-color: #000;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+
+.main {
+    padding: 0px 10px;
+}
+
+
+.headin
+{
+    color:red;
+    background-color: black;
+    text-align: center;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+  .log
+  {
+    text-align:center;
+  }
+  .email
+  {
+    text-align: center;
+    height: 30px;
+    width:60px;
+  }
+.bgim1
+{
+        background-image: url("./component/addsp3.webp");
+	height: 750px;
+	width:1530px;
+}
+.back
+{
+	height:600px;
+	width: 600px;
+	text-align: center;
+	margin-top: 70px;
+	background-color:black;	
+}
+
+
+.carbg
+{
+	margin-top: 100px;
+}
+.passbg
+{
+	margin-top: 30px;
+}
+.btn10
+{
+	margin-top: 30px;
+	background-color: red;
+}
+.alin
+{
+	margin-top: 50px;
+}
+.address
+{
+	height:70px;
+	width: 400px;
+}
+.headd
+{
+	color:red;
+}
